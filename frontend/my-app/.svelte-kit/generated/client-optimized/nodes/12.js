@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/user/search/search1/+layout.svelte";
