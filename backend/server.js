@@ -24,7 +24,7 @@ const ownerRoute = require("./database/src/routes/ownerRoute");
 const mysqldb = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "sai@2021IIT",
+  password: "password"
   database: "ams_database",
 });
 
